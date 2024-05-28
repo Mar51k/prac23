@@ -1,0 +1,10 @@
+C:\Users\pr-23.107k-kd\source\repos\prac23\prac23\bin\Debug\prac23.exe.config
+C:\Users\pr-23.107k-kd\source\repos\prac23\prac23\bin\Debug\prac23.exe
+C:\Users\pr-23.107k-kd\source\repos\prac23\prac23\bin\Debug\prac23.pdb
+C:\Users\pr-23.107k-kd\source\repos\prac23\prac23\obj\Debug\prac23.csproj.AssemblyReference.cache
+C:\Users\pr-23.107k-kd\source\repos\prac23\prac23\obj\Debug\prac23.Form1.resources
+C:\Users\pr-23.107k-kd\source\repos\prac23\prac23\obj\Debug\prac23.Properties.Resources.resources
+C:\Users\pr-23.107k-kd\source\repos\prac23\prac23\obj\Debug\prac23.csproj.GenerateResource.cache
+C:\Users\pr-23.107k-kd\source\repos\prac23\prac23\obj\Debug\prac23.csproj.CoreCompileInputs.cache
+C:\Users\pr-23.107k-kd\source\repos\prac23\prac23\obj\Debug\prac23.exe
+C:\Users\pr-23.107k-kd\source\repos\prac23\prac23\obj\Debug\prac23.pdb
